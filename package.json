@@ -28,6 +28,7 @@
     "vite": "6.0.7"
   },
   "dependencies": {
+    "@types/node": "22.10.7",
     "react": "19.0.0",
     "react-dom": "19.0.0"
   }
